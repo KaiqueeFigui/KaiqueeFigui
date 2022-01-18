@@ -1,6 +1,6 @@
 ### Oi, me chamo Kaique 👋
 
-- 👨🏻‍💻 Hoje trabalho com back-end utilizando Java como linguagem pricipal e Spring Boot como framework para web na [CERC](https://www.cerc.inf.br/)
+- 👨🏻‍💻 Hoje trabalho com back-end utilizando Java como linguagem principal e Spring Boot como framework para web na [CERC](https://www.cerc.inf.br/)
 - 👨🏻‍🎓 Estou no terceiro ano da faculdade de Ciências da Computação na [SPTech](https://www.sptech.school/)
 - 🌱 Estudando DevOps
 
